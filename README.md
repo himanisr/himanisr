@@ -16,9 +16,24 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 Check out my portfolio website to get to know my tech stack and some other cool stuff.
--->
-🛠  **Tech Stack**
+
+
+> I am a quote to give context
+* [ ] Item 2
+   * [x] Sub Item 2b
+* [ ] Item 1
+This is a [link](https://mlh.io)
+
 JavaScript, Bootstrap,
 HTML,  CSS,  Git,  GitHub,
-Visual Studio Code, Photoshop
+Visual Studio Code, Photoshop-->
+🛠  **Tech Stack**
+
+|  |  |  |
+| :--- | :---: | ---: |
+| JavaScript | Bootstrap | HTML |
+| CSS | Git |  MySql |
+| JQuery | PHP | Photoshop|
+| Ajax |  | Wordpress |
+|  |   |  |
 
