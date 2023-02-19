@@ -1,4 +1,5 @@
 
+👋 Hello! Welcome to my GitHub profile! Thanks for stopping by! 🤩 🤩  
 
 <!--
 **himanisr/himanisr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -14,4 +15,3 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hello! Welcome to my GitHub profile! Thanks for stopping by! 🤩 🤩  
