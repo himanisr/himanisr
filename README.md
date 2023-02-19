@@ -17,8 +17,8 @@
 - ⚡ Fun fact: ...
 Check out my portfolio website to get to know my tech stack and some other cool stuff.
 -->
-
-🛠  Tech Stack
+🛠  **Tech Stack**
 JavaScript, Bootstrap,
 HTML,  CSS,  Git,  GitHub,
 Visual Studio Code, Photoshop
+
