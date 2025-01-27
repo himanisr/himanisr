@@ -35,6 +35,7 @@ Visual Studio Code, Photoshop-->
 | JavaScript | Bootstrap | HTML |
 | CSS | Git |  MySql |
 | JQuery | PHP | Photoshop|
-| Ajax |Laravel  | Wordpress |
+| Ajax |Laravel  | Excel |
+| Power Bi | Excel |
 |  |   |  |
 
