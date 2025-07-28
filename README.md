@@ -23,7 +23,7 @@ Visual Studio Code, Photoshop-->
 |  |  |  |
 | :--- | :---: | ---: |
 | JavaScript | Bootstrap | HTML |
-| CSS | Git |  MySql |
+| CSS | Git |  SQL |
 | JQuery | PHP | Photoshop|
 | Ajax |Laravel  | Excel |
 | Power Bi | Tableau | Python
