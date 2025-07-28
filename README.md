@@ -26,6 +26,6 @@ Visual Studio Code, Photoshop-->
 | CSS | Git |  MySql |
 | JQuery | PHP | Photoshop|
 | Ajax |Laravel  | Excel |
-| Power Bi | Tableau |
+| Power Bi | Tableau | Python
 |  |   |  |
 
